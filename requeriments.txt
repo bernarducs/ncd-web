@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-WTF
+Flask-Mail
+flask-login
+flask-bootstrap
+PyJWT
+python-dotenv
+email-validator
